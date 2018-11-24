@@ -1,0 +1,22 @@
+body, nav ul {
+	margin : 0;
+}
+nav {
+	background-color: violet;
+	font-size:  24px;
+	font-family: arial;
+	color: blue;
+	background-color: pink;
+}
+nav ul li {
+	display: inline-block;
+	padding: 50px;
+}
+
+nav ul li{
+	margin: 0;
+}
+ nav ul li:hover{
+ 	color: purple;
+ 	background-color: yellow;
+ }
